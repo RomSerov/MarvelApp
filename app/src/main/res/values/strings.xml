@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MarvelApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="btn_filter_label">Фильтры</string>
+    <string name="btn_apply_label">Применить</string>
+    <string name="text_sorted_by_name">По алфавиту</string>
+    <string name="text_sorted_by_modified">По дате изменения</string>
+    <string name="text_sorted_by_an_name">По алфавиту в обратном порядке</string>
+    <string name="text_sorted_by_an_modified">По дате изменения в обратном порядке</string>
+</resources>
