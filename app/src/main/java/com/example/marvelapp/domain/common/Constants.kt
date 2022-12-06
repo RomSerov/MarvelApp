@@ -6,8 +6,8 @@ import java.sql.Timestamp
 
 object Constants {
     const val API_BASE_URL = "https://gateway.marvel.com"
-    const val API_KEY = "fe7e5c8d2fec015305ace65babb72401"
-    const val API_PRIVATE_KEY = "6512f307917ab54c846fcb24d0ffa671c5ce104c"
+    const val API_KEY = "*"
+    const val API_PRIVATE_KEY = "*"
     val timeStamp = Timestamp(System.currentTimeMillis()).time.toString()
 
     fun toMd5Hash(): String {
